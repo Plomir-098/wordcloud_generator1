@@ -16,17 +16,11 @@
 - Библиотеки: wordcloud, matplotlib, numpy, pillow
 
 ## ⚙️ Установка и запуск
-# 1. Активация окружения
-venv\Scripts\activate
-
-# 2. Запуск программы
-python main.py
-
-# 3. Выбор опции 1
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone <(https://github.com/Plomir-098/wordcloud_generator1)>
 
 cd wordcloud_generator
+
 
