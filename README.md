@@ -14,7 +14,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/Plombir-098/wordcloud_generator.git
+git clone https://github.com/Plomir-098/wordcloud_generator.git
 cd wordcloud_generator
 2. Создание виртуального окружения
 
@@ -30,4 +30,5 @@ pip install -r requirements.txt
 5. Запуск программы
 
 python main.py
+
 
