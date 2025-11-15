@@ -17,7 +17,7 @@
 git clone https://github.com/Plombir-098/wordcloud_generator.git
 cd wordcloud_generator
 2. Создание виртуального окружения
-bash
+
 python -m venv venv
 3. Активация виртуального окружения
 Windows: venv\Scripts\activate
@@ -25,8 +25,9 @@ Windows: venv\Scripts\activate
 Mac/Linux: source venv/bin/activate
 
 4. Установка зависимостей
-bash
+
 pip install -r requirements.txt
 5. Запуск программы
-bash
+
 python main.py
+
