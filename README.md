@@ -16,13 +16,17 @@
 - Библиотеки: wordcloud, matplotlib, numpy, pillow
 
 ## ⚙️ Установка и запуск
-1. python -m venv venv
-2. venv\Scripts\activate  
-3. pip install -r requirements.txt
-4. python main.py
+# 1. Активация окружения
+venv\Scripts\activate
+
+# 2. Запуск программы
+python main.py
+
+# 3. Выбор опции 1
 
 ### 1. Клонирование репозитория
 ```bash
 git clone <ссылка-на-репозиторий>
 
 cd wordcloud_generator
+
